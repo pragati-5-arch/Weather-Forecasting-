@@ -25,8 +25,9 @@ Technology Overview :
      * SQLite 3
 
 Weather Forecasting Web Application Output
-1Img: ![image](https://github.com/user-attachments/assets/dd7b7318-d4d7-4f64-b85b-f867d23e78b0)
-2Img: ![image](https://github.com/user-attachments/assets/5d66dd5c-ce48-43c3-b73d-70e670a8c5ed)
+![image](https://github.com/user-attachments/assets/33f492f4-023f-49b6-b49b-037b4fb2d91a)
+![image](https://github.com/user-attachments/assets/373b3efa-a9fd-431f-a877-c81503594d8e)
+
 
 Presentation: [WEATHER FORECASTING ppt.pptx](https://github.com/user-attachments/files/18240394/WEATHER.FORECASTING.ppt.pptx)
 
